@@ -6,3 +6,4 @@
 ![rfr learning curve](https://user-images.githubusercontent.com/80234350/127791664-84d4d27b-3933-4876-82d8-29a9190572c9.png)
 
 
+![knn cm](https://user-images.githubusercontent.com/80234350/127791724-bf1f327f-c8db-42a5-b58a-e44559359c4c.png)

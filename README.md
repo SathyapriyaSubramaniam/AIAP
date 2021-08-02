@@ -7,3 +7,7 @@
 
 
 ![knn cm](https://user-images.githubusercontent.com/80234350/127791724-bf1f327f-c8db-42a5-b58a-e44559359c4c.png)
+
+
+![rfr cm](https://user-images.githubusercontent.com/80234350/127791772-a86717d7-393b-4089-8173-4beff1ff658b.png)
+
